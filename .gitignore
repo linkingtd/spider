@@ -1,3 +1,8 @@
 target
 .idea
 spider.iml
+/.classpath
+/.project
+/ship-2017-10-20-1.log
+/ship.log
+/.settings/

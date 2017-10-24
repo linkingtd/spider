@@ -1,5 +1,5 @@
 {
-  "esHost": "localhost",
+  "esHost": "192.168.33.83",
   "esPort": 9300,
   "esClusterName": "elasticsearch",
   "commonsIndex": "commons",
@@ -8,10 +8,10 @@
   "taskDeleteDelay": 1,
   "taskDeletePeriod": 2,
   "limitOfCommonWebpageDownloadQueue": 100000,
-  "needRedis": false,
+  "needRedis": true,
   "needEs": false,
   "redisPort": 6379,
-  "redisHost": "localhost",
+  "redisHost": "192.168.28.128",
   "webpageRedisPublishChannelName": "webpage",
   "commonsWebpageCrawlRatio": 2,
   "ajaxDownloader": "http://localhost:7788/"
